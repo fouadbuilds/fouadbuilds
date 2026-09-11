@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fouad Adeniran</h1>
-<h3 align="center">Applied Computer Science Student at <a href="https://www.dal.ca">Dalhousie University</a></h3>
+<h3 align="center">Applied Computer Science Student @ <a href="https://www.dal.ca">Dalhousie University</a></h3>
 
 <br>
 
