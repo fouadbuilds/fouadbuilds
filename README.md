@@ -36,5 +36,5 @@
 
 <strong>Interests:</strong>
 <br>
-<strong>Distributed systems, cloud, agentic AI, browsers</strong>
+<strong>cloud, agentic AI, browsers, design, distributed systems</strong>
 
